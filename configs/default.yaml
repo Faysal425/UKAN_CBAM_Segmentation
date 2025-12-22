@@ -60,7 +60,7 @@ augmentation:
 
 # Training
 training:
-  epochs: 100
+  epochs: 60
   optimizer:
     name: "AdamW"
     lr: 0.001
