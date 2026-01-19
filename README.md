@@ -132,11 +132,16 @@ The model achieves competitive performance on binary segmentation tasks with:
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{ukan_cbam2024,
-  title={UKAN-CBAM: U-shaped Kolmogorov-Arnold Network with CBAM for Binary Segmentation},
-  author={Your Name},
-  journal={arXiv preprint arXiv:2024.xxxxx},
-  year={2024}
+@article{AHAMED2026103352,
+    title = {Rethinking U-Net architecture in medical imaging: Advancing the efficient and interpretable UKAN-CBAM framework for colorectal polyp segmentation},
+    journal = {Artificial Intelligence in Medicine},
+    pages = {103352},
+    year = {2026},
+    issn = {0933-3657},
+    doi = {https://doi.org/10.1016/j.artmed.2026.103352},
+    url = {https://www.sciencedirect.com/science/article/pii/S0933365726000047},
+    author = {Md. Faysal Ahamed and Fariya Bintay Shafi and Md. Rabiul Islam and Md. Fahmidun Nabi and Julfikar Haider},
+    keywords = {Colorectal cancer, Colorectal polyps, KANs (Kolmogorov-Arnold networks), UKAN (U-Net with KAN), CBAM (Convolutional block attention module), UKAN-CBAM, Kvasir-SEG}
 }
 ```
 
