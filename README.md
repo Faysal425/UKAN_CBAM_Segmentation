@@ -38,13 +38,6 @@ data/
     └── masks/
 ```
 
-## Training
-
-### Basic training
-```bash
-python src/ukan_cbam/train.py --config configs/default.yaml
-```
-
 ## Configuration
 
 The model can be configured using YAML files in the `configs/` directory. Key parameters include:
