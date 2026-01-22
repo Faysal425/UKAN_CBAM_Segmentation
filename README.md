@@ -42,11 +42,6 @@ data/
 
 The model can be configured using YAML files in the `configs/` directory. Key parameters include:
 
-- **Model architecture**: embed_dims, depths, add_cbam, no_kan
-- **Training**: epochs, learning rate, batch size
-- **Augmentation**: various image augmentation techniques
-- **Loss functions**: Dice, BCE, IoU, Focal, etc.
-
 ## Model Components
 
 ### CBAM (Convolutional Block Attention Module)
